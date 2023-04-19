@@ -1,0 +1,11 @@
+C:\Users\arkad\source\repos\Projekt 3\bin\Debug\Projekt 3.exe.config
+C:\Users\arkad\source\repos\Projekt 3\bin\Debug\Projekt 3.exe
+C:\Users\arkad\source\repos\Projekt 3\bin\Debug\Projekt 3.pdb
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.csproj.AssemblyReference.cache
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt_3.Properties.Resources.resources
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.csproj.GenerateResource.cache
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.exe
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt 3.pdb
+C:\Users\arkad\source\repos\Projekt 3\obj\Debug\Projekt_3.Form1.resources
